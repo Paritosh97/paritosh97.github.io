@@ -1,2 +1,3 @@
-# paritosh97.github.io
-Portfolio Website.
+# Research Portfolio
+
+This site contains information about my research interests and work.
