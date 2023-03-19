@@ -25,9 +25,11 @@ During my M1 thesis, my work aimed at improving the eye interaction methods for 
 
 
 ## Teaching
-- Introduction to Computer Graphics, Polytech Paris Sud, Fall 2022
-- Informatique Graphique pour la Science des Données, IUT d'Orsay, Spring 2022
-- Introduction à la Programmation orientée Objet(Français), IUT d'Orsay, Fall 2021
+- Introduction to Computer Graphics, Polytech Paris Sud(English), Spring 2023
+- Informatique Graphique pour la Science des Données(Français), IUT d'Orsay, Spring 2023
+- Introduction à Intelligence Artificielle, IUT d'Orsay, Spring 2023
+- Informatique Graphique pour la Science des Données(Français), IUT d'Orsay, Spring 2022
+- Introduction à la Programmation Orientée Objet(Français), IUT d'Orsay, Fall 2021
 
 
 ## Projects
