@@ -16,15 +16,13 @@ My research interests have been in the fields of Computer Graphics, Robotics and
 
 ### Synthesis for AZee expressions
 Currently, I [work](https://phd.paritosh-sharma.com/) on animating AZee(a sign language description language) expressions using avatars.
-\
-\
-![AZee animator](images/azee-animator.gif)
 
 ### Interaction methods for eye tracking for cognitively disabled people
 During my M1 thesis, my work aimed at improving the eye interaction methods for [GazePlay](https://gazeplay.github.io/GazePlay/){:target="_blank" rel="noopener"}.
 
 
 ## Teaching
+- Projet Interaction homme-machine, Polytech Paris Sud(French), Spring 2023
 - Introduction to Computer Graphics, Polytech Paris Sud(English), Spring 2023
 - Informatique Graphique pour la Science des Données(Français), IUT d'Orsay, Spring 2023
 - Introduction à Intelligence Artificielle, IUT d'Orsay, Spring 2023
@@ -49,7 +47,7 @@ An [underwater scene](https://github.com/Paritosh97/underwater-opengl){:target="
 ### Mobile VR integration for Godot
 During my [GSoC 2018](http://paritosh-sharma.com/gsoc-2018/){:target="_blank" rel="noopener"}, I worked on integrating GearVR and Google DayDream for [Godot Engine](https://godotengine.org/){:target="_blank" rel="noopener"}.
 
-### Unity3D projects
+### Unity and Godot projects
 - Cricket Game for meta headsets
 - 3D Mobile VR Painting
 
