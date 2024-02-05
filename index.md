@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a PhD student at [Laboratoire Interdisciplinaire des Sciences du Numérique](https://www.lisn.upsaclay.fr){:target="_blank" rel="noopener"} working under [Michael Filhol](https://perso.limsi.fr/filhol){:target="_blank" rel="noopener"} in team [ILES](https://www.limsi.fr/fr/recherche/iles){:target="_blank" rel="noopener"}. 
+I am a PhD student at [Laboratoire Interdisciplinaire des Sciences du Numérique](https://www.lisn.upsaclay.fr){:target="_blank" rel="noopener"} working under [Michael Filhol](https://www.lisn.upsaclay.fr/membres/filhol-michael/){:target="_blank" rel="noopener"} in team [LIPS](https://www.lisn.upsaclay.fr/research/research-departments/sciences-and-language-technologies/lips/?lang=en){:target="_blank" rel="noopener"}. 
 I received my Bachelor of Technology at [SRM Institude of Science and Technology](https://www.srmist.edu.in){:target="_blank" rel="noopener"} and then my Master of Science at [Université Grenoble Alpes](https://mosig.imag.fr){:target="_blank" rel="noopener"}
 My Ph.D. work focuses on animating sign language descriptions using 3D Avatars.
 
@@ -22,13 +22,11 @@ During my M1 thesis, my work aimed at improving the eye interaction methods for 
 
 
 ## Teaching
-- Projet Interaction homme-machine, Polytech Paris Sud(French), Spring 2023
-- Introduction to Computer Graphics, Polytech Paris Sud(English), Spring 2023
-- Informatique Graphique pour la Science des Données(Français), IUT d'Orsay, Spring 2023
-- Introduction à Intelligence Artificielle, IUT d'Orsay, Spring 2023
-- Informatique Graphique pour la Science des Données(Français), IUT d'Orsay, Spring 2022
-- Introduction à la Programmation Orientée Objet(Français), IUT d'Orsay, Fall 2021
-
+- Computer Graphics for Data Science, IUT d'Orsay, 2022 - Present
+- Introduction to Computer Graphics, Polytech Paris Sud(English), 2023 - Present
+- Human Computer Interaction, Polytech Paris Sud, 2023 - Present
+- Introduction to Artificial Intelligence, IUT d'Orsay, Spring 2023
+- Introduction to Object Oriented Programming, IUT d'Orsay, Fall 2021
 
 ## Projects
 
@@ -37,6 +35,9 @@ During my M1 thesis, my work aimed at improving the eye interaction methods for 
 \
 \
 ![Mass Spring Demo](images/mass-spring.gif)
+
+## Jam Games
+Check out games developed by me during game jams [here](https://paritosh.itch.io/){:target="_blank" rel="noopener"}.
 
 ### Underwater scene using OpenGL
 An [underwater scene](https://github.com/Paritosh97/underwater-opengl){:target="_blank" rel="noopener"} implemented using PyOpenGL and GLFW during my course [3D Computer Graphics](https://chamilo.grenoble-inp.fr/courses/ENSIMAG4MMG3D6/){:target="_blank" rel="noopener"}.
